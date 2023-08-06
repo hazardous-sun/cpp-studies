@@ -1,0 +1,3 @@
+/home/solaire/CLionProjects/cpp-studies-main/cmake-build-debug/CMakeFiles/CPPCheatTable.dir
+/home/solaire/CLionProjects/cpp-studies-main/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/solaire/CLionProjects/cpp-studies-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
